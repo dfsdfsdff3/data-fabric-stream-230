@@ -1,0 +1,1 @@
+const service_fm4j = <T>(args: T): T => { return args; };
